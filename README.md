@@ -2,10 +2,10 @@
 
 
 ## `Running Locally`
-git clone https://github.com/PrathameshDutondkar/MineCart.git\
+git clone https://github.com/PrathameshDutondkar/MineCart.git
 
 
-cd MiniCart\
+cd MineCart\
 cd minicart\
 npm install\
 npm start\
