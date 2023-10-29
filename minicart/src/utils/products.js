@@ -37,25 +37,25 @@ export const SliderData = [
   {
       id: 1,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: "Your destination for stylish sofas, chairs, mobile devices, and wireless tech. Elevate your home and stay connected in style with our handpicked selections. Quality, affordability, and convenience, all in one place",
       cover: sofaSlide,
   },
   {
       id: 2,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: "Your destination for stylish sofas, chairs, mobile devices, and wireless tech. Elevate your home and stay connected in style with our handpicked selections. Quality, affordability, and convenience, all in one place",
       cover: phone08,
   },
   {
       id: 3,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: "Your destination for stylish sofas, chairs, mobile devices, and wireless tech. Elevate your home and stay connected in style with our handpicked selections. Quality, affordability, and convenience, all in one place",
       cover: wireless01,
   },
   {
       id: 4,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: "Your destination for stylish sofas, chairs, mobile devices, and wireless tech. Elevate your home and stay connected in style with our handpicked selections. Quality, affordability, and convenience, all in one place",
       cover: watchSlide,
   },
 ];
@@ -96,13 +96,13 @@ export const discoutProducts = [
     price: 193,
     discount:30,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.7,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.5,
@@ -115,17 +115,17 @@ export const discoutProducts = [
     price: 253,
     discount:20,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -138,17 +138,17 @@ export const discoutProducts = [
     price: 89,
     discount:15,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -161,17 +161,17 @@ export const discoutProducts = [
     price: 112,
     discount:35,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -184,17 +184,17 @@ export const discoutProducts = [
     price: 599,
     discount:10,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -207,17 +207,17 @@ export const discoutProducts = [
     price: 799,
     discount:5,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -233,13 +233,13 @@ export const products = [
     category: "sofa",
     price: 193,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.7,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.5,
@@ -252,17 +252,17 @@ export const products = [
     category: "sofa",
     price: 253,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -275,17 +275,17 @@ export const products = [
     category: "sofa",
     price: 173,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -297,17 +297,17 @@ export const products = [
     category: "sofa",
     price: 253,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -319,17 +319,17 @@ export const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -342,17 +342,17 @@ export const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -365,17 +365,17 @@ export const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -387,17 +387,17 @@ export const products = [
     category: "chair",
     price: 99,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -410,17 +410,17 @@ export const products = [
     category: "sofa",
     price: 173,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -433,17 +433,17 @@ export const products = [
     category: "chair",
     price: 89,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -456,17 +456,17 @@ export const products = [
     category: "chair",
     price: 112,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -479,17 +479,17 @@ export const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -501,17 +501,17 @@ export const products = [
     category: "chair",
     price: 99,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.6,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.7,
@@ -523,17 +523,17 @@ export const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -546,17 +546,17 @@ export const products = [
     category: "mobile",
     price: 599,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -569,17 +569,17 @@ export const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -592,17 +592,17 @@ export const products = [
     category: "mobile",
     price: 899,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -615,17 +615,17 @@ export const products = [
     category: "mobile",
     price: 699,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -638,17 +638,17 @@ export const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -661,17 +661,17 @@ export const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -684,17 +684,17 @@ export const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -707,17 +707,17 @@ export const products = [
     category: "watch",
     price: 399,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -730,17 +730,17 @@ export const products = [
     category: "wireless",
     price: 199,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -753,17 +753,17 @@ export const products = [
     category: "wireless",
     price: 199,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -775,17 +775,17 @@ export const products = [
     category: "wireless",
     price: 169,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
@@ -797,17 +797,17 @@ export const products = [
     category: "wireless",
     price: 139,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "MiniCart's sofas offer the perfect blend of quality craftsmanship and a wide selection of materials for your comfort and style",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Discover the epitome of comfort and elegance with MiniCart's sofas. Crafted with the highest quality materials, our sofas boast impeccable craftsmanship and a wide range of fabric and leather options. From sumptuous velvet to durable leather, we offer a variety of materials to suit your preferences, ensuring that every piece combines both style and durability for your ultimate satisfaction",
     reviews: [
       {
         rating: 4.8,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
       {
         rating: 4.9,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "l like the product. the color options are fantastic. I couldn't be happier with my purchase",
       },
     ],
     avgRating: 4.8,
