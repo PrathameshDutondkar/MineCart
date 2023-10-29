@@ -17,5 +17,5 @@ CSS FrameWork:bootstrap,SCSS\
 State Management:Redux Toolkit\
 
 ## `Live Project`
-
+https://minicart-web-app.netlify.app/
 

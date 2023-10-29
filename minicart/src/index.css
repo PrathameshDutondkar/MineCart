@@ -29,8 +29,8 @@ code {
 }
 
 section {
-  padding-top: 20px !important;
-  padding-bottom: 20px !important;
+  /* padding-top: 20px !important; */
+  /* padding-bottom: 20px !important; */
 }
 
 a {
@@ -86,7 +86,9 @@ button {
 .filter-bar-contianer .row {
   flex-wrap: wrap-reverse !important;
 }
-
+.filter-bar{
+  margin-top: 30px;
+}
 @media (max-width: 767px) {
   .filter-bar .row {
     gap: 20px;
