@@ -2,7 +2,7 @@
 
 
 ## `Running Locally`
-git clone https://github.com/PrathameshDutondkar/MineCart.git\
+git clone https://github.com/PrathameshDutondkar/MineCart.git
 
 
 cd MiniCart\
@@ -14,7 +14,7 @@ open http://localhost:3000 to view to the app
 ## `Technology Use`
 Javascript Library: ReactJs\
 CSS FrameWork:bootstrap,SCSS\
-State Management:Redux Toolkit\
+State Management:Redux Toolkit
 
 ## `Live Project`
 
