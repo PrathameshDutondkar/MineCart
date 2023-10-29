@@ -97,7 +97,7 @@ const SignUp = () => {
               className="custom-button"
               loading={loading}
             >
-              {loading ? "Registering" : "Register"}
+              {loading ? "Registering" : "SignUp"}
             </Button>
           </Form.Item>
         </Form>
