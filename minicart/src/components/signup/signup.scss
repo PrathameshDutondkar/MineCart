@@ -1,8 +1,6 @@
-html {
-    font-size: 16px;
-  }
+
   
-  .signin-container {
+  .signup-container {
     position: relative;
     display: flex;
     flex-direction: column;
@@ -70,13 +68,7 @@ html {
       flex-direction: column;
           .register-name{
             font-size: 1.3rem;
-            color:#000;
-          }
-          .signup{
-            color: blue;
-            cursor: pointer;
-            padding-bottom: 5px;
-            text-decoration: underline;
+            color:blue;
           }
 
     }

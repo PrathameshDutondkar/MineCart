@@ -3,75 +3,90 @@ import { Form, Input, Button } from "antd";
 import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import "./singin.scss";
+import "./signup.scss";
 
-const SignIn = () => {
+const SignUp = () => {
   const navigate = useNavigate();
   const [loading, setLoading] = useState(false);
+  const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
-  const handleAuthentication = async () => {
+  const handleRegistration = async () => {
     try {
       setLoading(true);
 
-
-      const storedEmail = localStorage.getItem("email");
-      const storedPassword = localStorage.getItem("password");
-
-      if (email === storedEmail && password === storedPassword) {
-        toast.success("Sign-in successful");
-        navigate("/home");
+      
+      if (name && email && password) {
+        
+        localStorage.setItem("password", password);
+        localStorage.setItem("email", email);
+        toast.success("Registration successful");
+        navigate("/");
       } else {
-        toast.error("Invalid email or password");
+        toast.error("Please fill in all the fields");
       }
     } catch (error) {
-      toast.error("An error occurred during sign-in");
+      toast.error("An error occurred during registration");
     } finally {
       setLoading(false);
     }
   };
-  const handleRegistration = () => {
-   
-    navigate("/signup");
-  };
 
   return (
-    <div className="signin-container">
+    <div className="signup-container">
       <div className="background-image" />
 
       <div className="form-container">
-        <h2 className="form-title">Sign In</h2>
+        <h2 className="form-title">Sign Up</h2>
         <Form
           name="basic"
           initialValues={{ remember: true }}
-          onFinish={handleAuthentication}
+          onFinish={handleRegistration}
         >
           <Form.Item
             className="form-item"
-            label="username"
+            label="Name"
+            name="name"
+            rules={[
+              { required: true, message: "Please input your name!" },
+            ]}
+          >
+            <Input
+              placeholder="Enter your name"
+              className="input"
+              value={name}
+              onChange={(e) => setName(e.target.value)}
+            />
+          </Form.Item>
+
+          <Form.Item
+            className="form-item"
+            label="Email"
             name="email"
             rules={[
               { required: true, message: "Please input your email address!" },
               { type: "email", message: "Please enter a valid email address!" },
             ]}
           >
-            <Input placeholder="Enter your email address" className="input"
-            value={email}
+            <Input
+              placeholder="Enter your email address"
+              className="input"
+              value={email}
               onChange={(e) => setEmail(e.target.value)}
-             />
+            />
           </Form.Item>
 
           <Form.Item
             className="form-item"
             label="Password"
             name="password"
-            rules={[{ required: true, message: "Please input your password!" }]}
+            rules={[{ required: true, message: "Please input your password!"}]}
           >
             <Input.Password
               placeholder="Enter your password"
               className="input"
-                         value={password}
+              value={password}
               onChange={(e) => setPassword(e.target.value)}
             />
           </Form.Item>
@@ -82,19 +97,13 @@ const SignIn = () => {
               className="custom-button"
               loading={loading}
             >
-              {loading ? "Signing In" : "Sign In"}
+              {loading ? "Registering" : "Register"}
             </Button>
-         
           </Form.Item>
-          <div className="register">
-          <div className="register-name">New to this site?  &nbsp;
-          
-          <spn className="signup" onClick={handleRegistration}>SignUp</spn> </div>
-         </div>
         </Form>
       </div>
     </div>
   );
 };
 
-export default SignIn;
+export default SignUp;
